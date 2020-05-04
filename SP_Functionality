@@ -1,0 +1,26 @@
+Student portal.
+
+Generallay every student and teachers  have  a student login portal.
+
+Student
+
+Every student have to register to the student portal.After Registraion they  will get one email in the mail user id will be there for their login.
+
+ 
+	In student portal student can login by using  student id and password 
+	student can see all exam marks.
+	They can submit their project files to respective staff.
+
+Notifications
+	After teacher added marks or appr/rej projects student will get notification by email
+
+Teacher 
+
+student portal for respective teacher also.
+ The teacher have to register in student portal with teacher_id and email id.Teacher will get login id by email as like a student.
+
+	The teacher can add mark for respective class students.
+	Teacher can reject or approve their projects with remarks
+
+Notification
+	Teacher will get notification by email after the student submitted the projects
