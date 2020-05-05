@@ -1,26 +1,27 @@
-Student portal.
+Name - EduConnect Portal (Edu as in Education)
+Description - A Portal that is used to view - add - edit - discuss academic topics for students and faculty.
 
-Generallay every student and teachers  have  a student login portal.
-
-Student
-
-Every student have to register to the student portal.After Registraion they  will get one email in the mail user id will be there for their login.
-
- 
-	In student portal student can login by using  student id and password 
-	student can see all exam marks.
-	They can submit their project files to respective staff.
-
-Notifications
-	After teacher added marks or appr/rej projects student will get notification by email
-
-Teacher 
-
-student portal for respective teacher also.
- The teacher have to register in student portal with teacher_id and email id.Teacher will get login id by email as like a student.
-
-	The teacher can add mark for respective class students.
-	Teacher can reject or approve their projects with remarks
-
-Notification
-	Teacher will get notification by email after the student submitted the projects
+Type of User and respective features listed below
+  #Student
+      A student-user can register to the portal using institution provided email address only. Once registered, the student-user will recieve an email in the provided email address which contains a 
+      verification link which needs to be clicked upon. Once clicked, student-user will be verified and will be able to login to the portal.
+     If verified,
+        student-user can login using the credentials provided during registration.
+     If loggedIn,	 
+        student-user can view all respective marksheets.
+        student-user can submit their project files and tag respective faculty.
+   #Faculty
+      A faculty-user can register to the portal using institution provided email address only. Once registered, the faculty-user will recieve an email in the provided email address which contains a 
+      verification link which needs to be clicked upon. Once clicked, faculty-user will be verified and will be able to login to the portal.
+     If verified,
+        faculty-user can login using the credentials provided during registration.
+     If loggedIn,	 
+        faculty-user can add marksheets to individual students
+        faculty-user can view/download, provide feedback for each of his/her student's project files.
+	
+Common Features
+  #Notification  
+     faculty-user will be notified via email if a respective a student submits a project.
+     student-user will be notified via email if his/her marksheet is added/updated.
+     
+** More Features to be added **
